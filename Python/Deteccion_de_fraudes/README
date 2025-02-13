@@ -1,0 +1,14 @@
+README - Proyecto de Detección de Fraude
+
+Este proyecto fue desarrollado como parte del curso "Applied Machine Learning in Python" dictado por la Universidad de Michigan. El documento adjunto ofrece un enfoque exhaustivo para enfrentar el desafío de la detección de fraudes, evaluando cómo diversos algoritmos de clasificación pueden ser optimizados y comparados para mejorar su eficacia en la identificación de actividades fraudulentas.
+
+
+Contenido del Proyecto
+
+Análisis de Datos: Se exploran distintas técnicas de clasificación para determinar su efectividad en la identificación de fraudes.
+Optimización de Modelos: Se lleva a cabo una optimización de hiperparámetros para maximizar el rendimiento de los modelos.
+Evaluación de Resultados: Se utilizan métricas como precisión, recall, y la matriz de confusión para evaluar el desempeño de los modelos.
+
+Estructura del Directorio
+
+fraud_data.csv: Base de datos utilizada para el análisis y entrenamiento de los modelos.
