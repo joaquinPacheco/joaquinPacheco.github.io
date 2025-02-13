@@ -1,0 +1,8 @@
+README - Predicting Viewer Engagement
+
+Este proyecto fue desarrollado como parte del curso "Applied Machine Learning in Python" impartido por la Universidad de Michigan. El objetivo principal del análisis es predecir el nivel de engagement que tendrán los videos educativos.
+
+Contenido del Proyecto
+
+Dataset de Entrenamiento: La carpeta incluye el dataset "train", que se utilizó para el entrenamiento del modelo.
+Dataset de Prueba: También se incluye el conjunto de datos "test", que se utilizó para evaluar el rendimiento del modelo.
