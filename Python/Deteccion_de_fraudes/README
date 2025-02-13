@@ -9,6 +9,6 @@ Análisis de Datos: Se exploran distintas técnicas de clasificación para deter
 Optimización de Modelos: Se lleva a cabo una optimización de hiperparámetros para maximizar el rendimiento de los modelos.
 Evaluación de Resultados: Se utilizan métricas como precisión, recall, y la matriz de confusión para evaluar el desempeño de los modelos.
 
-Estructura del Directorio
+Estructura
 
 fraud_data.csv: Base de datos utilizada para el análisis y entrenamiento de los modelos.
