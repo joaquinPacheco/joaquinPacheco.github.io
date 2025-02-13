@@ -1,0 +1,17 @@
+README - Proyecto de Clasificación de Cáncer de Mama
+
+Este proyecto fue desarrollado como parte del curso "Applied Machine Learning in Python" dictado por la Universidad de Michigan
+
+Fue desarrollado como parte de un ejercicio de aprendizaje aplicado para el diagnóstico asistido por máquina del cáncer de mama. Utiliza el conjunto de datos Breast Cancer Wisconsin (Diagnostic) y explora la implementación de un modelo K-Nearest Neighbors (KNN) para clasificar tumores como malignos o benignos. El documento adjunto proporciona una guía detallada del proceso, desde la exploración de datos hasta la evaluación del modelo.
+
+Contenido del Proyecto
+
+Exploración del Conjunto de Datos: Se detalla cómo cargar y examinar el conjunto de datos de cáncer de mama, entendiendo su estructura y características principales.
+
+Conversión y Preparación de Datos: Se ilustra la conversión del conjunto de datos a un DataFrame de pandas, y la preparación del mismo dividiéndolo en características y etiquetas, así como en conjuntos de entrenamiento y prueba.
+
+Entrenamiento del Modelo: Se describe la implementación de un clasificador KNN, incluyendo el ajuste del modelo con el conjunto de entrenamiento y la selección de hiperparámetros adecuados.
+
+Evaluación del Modelo: Se aborda la evaluación del rendimiento del modelo usando el conjunto de prueba. Se discuten las métricas de precisión y otras medidas relevantes para determinar su efectividad.
+
+Predicción y Análisis: Se examina la capacidad del modelo para realizar predicciones sobre muestras nuevas, incluyendo un análisis de predicciones basadas en características promedio.
