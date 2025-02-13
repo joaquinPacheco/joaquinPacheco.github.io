@@ -1,0 +1,8 @@
+README - Análisis de Abandono de Clientes en Telecomunicaciones
+
+
+Este proyecto fue desarrollado como parte del curso "Ciencia de Datos" impartido en la Universidad Tecnológica Nacional. El objetivo principal del análisis es predecir el comportamiento de abandono de clientes (churn) en una empresa de telecomunicaciones utilizando técnicas avanzadas de machine learning.
+
+
+Dentro de la carpeta se incluye el conjunto de datos "telco_churn.csv", que fue utilizado para realizar el análisis. Este dataset es fundamental para entender las características y patrones que influyen en la decisión de los clientes de cambiar de proveedor, permitiendo así la elaboración de modelos predictivos efectivos.
+
